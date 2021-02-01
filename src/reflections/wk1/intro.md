@@ -8,4 +8,4 @@ This is super neat!
 
 That's also super neat!
 
-Again, Super NEAT!!
+Again, Super NEAT!
