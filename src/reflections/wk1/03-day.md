@@ -1,6 +1,6 @@
 # Day 3 - Week 1
 ## Bootstrap Intro
-Started Bootstrap today. We went over containers, rows, columns, and how to organize our webpages within a grid format. We also went through and recreated the cool-site page, but this time it was with bootstrap.
+Started Bootstrap today. We went over containers, rows, columns, and how to organize our webpages within a grid format. We also went through and recreated the cool-site page, but this time it was with bootstrap. In the afternoon, we worked on some projects with bootstrap. I completed two projects, the Smiley Challenge and the Two Grid Tricks Challenge. Both projects are linked below. 
 
 ## What is your favorite tip that you think is the most beneficial to improving your design?
 My favorite tip I found beneficial was that you can add portions of your CSS within the class tag while utilizing bootstrap.
@@ -18,3 +18,5 @@ I think a good design allows the users to engage more within the pages. You can 
 - [My Github](https://github.com/JonesyJava/cool-site)
 ## Smiley Challenge
 - [My Github](https://github.com/JonesyJava/smiley-challenge)
+## Two Grid Tricks Challenge
+- [My Github](https://github.com/JonesyJava/two-grid-tricks)
