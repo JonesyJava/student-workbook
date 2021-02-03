@@ -16,3 +16,5 @@ I think a good design allows the users to engage more within the pages. You can 
 
 ## Cool Site Challenge
 - [My Github](https://github.com/JonesyJava/cool-site)
+## Smiley Challenge
+- [My Github](https://github.com/JonesyJava/smiley-challenge)
