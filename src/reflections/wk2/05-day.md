@@ -10,3 +10,5 @@ Today we went over an intro to JavaScript. We convered functions, switches, and 
 
 ## Checkpoint 1 Challenge
 - [My Github](https://github.com/JonesyJava/checkpoint-1)
+## JS tests
+- [My Github](https://github.com/JonesyJava/js-tests-basics)
