@@ -9,4 +9,4 @@ Today our class went over for loops, array methods, and functions again. I'm sta
 ## What are higher order functions? Can you provide an example?
 
 ## JS Day-2 Challenges
-- [My Github]()
+- [My Github](https://github.com/JonesyJava/js-tests-loops-and-arrays)
