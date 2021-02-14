@@ -11,4 +11,4 @@ When I'm stuck somewhere in my code, I Google. From there I try to find similar 
 Planning too much might be detrimental. When they say that too much water might poison you, I've felt that during coding after I planned too much and needed to look back and just simplify my scope. Moving forward, I plan on making notes prior to coding new features so my code can will be clean. 
 
 ## JS Day-4 Challenge
-- [My Github]()
+- [My Github](https://github.com/ChrisJCurry/jigglypuff-power-punch.git)
