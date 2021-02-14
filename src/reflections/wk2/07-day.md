@@ -8,5 +8,5 @@ Today our class went over "Crazy Cat Lady", which was a tutorial similar to our 
 
 ## Outside of writing everything to the console, what is a better way to debug your code?
 
-## JS Day-2 Challenges
+## JS Day-3 Challenge
 - [My Github]()
