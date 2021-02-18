@@ -10,5 +10,5 @@ One of the problems with underscore prefix is that if you call a draw within a f
 You can create private variables by using closure-based encapsulation over using classes and the new specification field. You would do this to keep your variables private so that an outdside user cannot manipulate the data set.
 
 
-## JS Day-10 Vending Machine Challenge
+## JS MVC Day-10 Vending Machine Challenge
 - [My Github](https://github.com/JonesyJava/vending-machine.git)
