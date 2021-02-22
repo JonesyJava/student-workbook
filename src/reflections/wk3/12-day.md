@@ -9,4 +9,4 @@ Subscribe, unsubscribe, and broadcast.
 ## Review the code generated from the bcw-template and reflect on the proxy objects from yesterday, and your understanding of the observer pattern today. With this knowledge, explain how the magic of the bcw-template uses these two concepts to manage and update the dom.
 The template gives public and specifically private abilities within data. With the proxy object only being accessible within the State, this not only gives you, the programmer, the control of your data, but limits the ability for end user clients to manipulate your code and data repository. While this is a great limitation to the accessibility of your code data, the observer patter then creates the resuability of the code and allows you to access the data whenever required. It's almost a symbiotic relationship within these two methods based on their ultimate purposes. 
 ## JS MVC Day-12 Challenge
-- [My Github]()
+- [My Github](https://github.com/JonesyJava/darryl-shopper.git)
