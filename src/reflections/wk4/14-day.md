@@ -8,4 +8,4 @@ Promises have three states that are all active in resolving issues of Callback H
 ## What is the difference between .then() and .catch()?
 .then() method is called after the Promise is resolved. If the Promise fails then we utilize a .catch() method which during the failed promise, will then jump to the catch and display a different message in the console.
 ## Afternoon Challenge
-- [My Github]()
+- [My Github](https://github.com/JonesyJava/latewinter2021-gregslist.git)
