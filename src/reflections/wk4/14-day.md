@@ -1,6 +1,6 @@
 # Day 14 - Week 4
 ## Intro to Async Code and API's
-
+This morning we started with a morning challenge where we were tasked to make a function that shows the most common letter within a string. We then began with another creation of Greg's List in class. This time using MVC and Async Code. During the afternoon we continued to build on Greg's List utilizing what we learned in morning lecture.
 ## What are the three states of a Promise?
 Three states of a promise are Pending, Resolve, and Rejected.
 ## How do promises seek to resolve the issues of "callback hell"?
