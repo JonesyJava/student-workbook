@@ -8,4 +8,4 @@ the format for a query parameter is Key=Value. The query itself starts with a '?
 ## When do you think Query parameters would be helpful when writing your server?
 It can help if you want information to be parsed into an object. An example that can explain this is using square[] brackets in your query string. ?horse[color]=black will then be parsed into an object {horse {color: black}} and store within your server so you dont have to create this object later. 
 ## Afternoon Project
-- [My Github]()
+- [My Github](https://github.com/JonesyJava/node-intro.git)
