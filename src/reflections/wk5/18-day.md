@@ -8,4 +8,4 @@ One of the benefits to traditional linking is in the One-to-Many relationship. T
 ## What are some of the challenges faced when deciding how to manage a many-to-many relationship that ultimately drive your decision on how to create it?
 In trying to manage many-to-many relationships we need to consider what kind of creation we are attempting to utilize - or what exactly we are required to complete and create, and most importantly, for what purpose. The example in the reading talks about books. We can categorize them based on multitudes of data points - authors, type, title, etc. However, this challenge can direct you in a decision to either make an embedding choice: One-way or Two-way, depending on the data involvement. 
 ## Afternoon Project
-- [My Github]()
+- [My Github](https://github.com/JonesyJava/gregs-list-mongodb.git)
