@@ -1,6 +1,6 @@
 # Day 16 - Week 4
-## Intro to Async Code and API's
-
+## Intro to MongoDB, API's, and Relationships
+Today we started the day with a morning challenge. The morning challenge we were to create a function that determines who will win in a battle for Middle Earth. We were given an array of values for both sides and set to create the solution via JavaScript.
 ## In simple terms what is a sub-document?
 Sub-Documents are documents that are nested in other documents. You can spot a sub-document when a schema is nested within another schema.
 ## When might you use a sub-document?
