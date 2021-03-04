@@ -1,6 +1,6 @@
 # Day 16 - Week 4
 ## Intro to MongoDB, API's, and Relationships
-Today we started the day with a morning challenge. The morning challenge we were to create a function that determines who will win in a battle for Middle Earth. We were given an array of values for both sides and set to create the solution via JavaScript.
+Today we started the day with a morning challenge. The morning challenge we were to create a function that determines who will win in a battle for Middle Earth. We were given an array of values for both sides and set to create the solution via JavaScript. During the afternoon we were tasked with creating a Planet DB using MongoDB but had to have an example of One-to-Many & Many-to-Many (link below). 
 ## In simple terms what is a sub-document?
 Sub-Documents are documents that are nested in other documents. You can spot a sub-document when a schema is nested within another schema.
 ## When might you use a sub-document?
@@ -11,4 +11,4 @@ You can pass the entire object within the constructed data or you can add the da
 Editing sub-documents is a bit more involved still. When editing, you will need to remember to use the findOne() method to find the document. Get the array of your choosing, change the array after locating, and then ultimately save. 
 
 ## Afternoon Project
-- [My Github]()
+- [My Github](https://github.com/JonesyJava/galaxy-mongodb.git)
