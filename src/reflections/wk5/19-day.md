@@ -1,4 +1,4 @@
-# Day 16 - Week 4
+# Day 16 - Week 5
 ## Intro to MongoDB, API's, and Relationships
 Today we started the day with a morning challenge. The morning challenge we were to create a function that determines who will win in a battle for Middle Earth. We were given an array of values for both sides and set to create the solution via JavaScript. During the afternoon we were tasked with creating a Planet DB using MongoDB but had to have an example of One-to-Many & Many-to-Many (link below). 
 ## In simple terms what is a sub-document?

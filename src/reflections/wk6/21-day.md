@@ -1,0 +1,11 @@
+# Day 21 - Week 6
+## Intro to Vue.js
+Today we turned in and presented our Hack-a-thon projects from the previous Friday. We then moved into learning Vue.js and how it is a useful tool and still growing amongst the technology industry. I'm struggling a bit to understand the syntax of Vue.js right now but with more practice this week, it should be like second nature. This afternoon we began learning Vue.js within a created template called "Vue Playground". 
+## What is Component based architecture?
+A component architecture is a type of application architecture composed of independent, modular, and reusable building blocks called components. The value proposition of a component-based architecture is that it boosts application development time and reduces code fragmentation.
+## What are some benefits of Component based architecture?
+Compenent based architecture allows for faster load times, lower SEO, and more easily mobile friendly applications, and a better diffusion of knowledge amongst a team. However, these benefits are truly only within a single page application.  
+## What are some drawbacks to Component based architecture?
+No composition support at any level. Data exchange within the application is possible by the mechanism of inter-process communication. However, the applications are not properly specified in spite of the application using the services of the operating system. No domain-specific standards. In general the operating system services do not support any specific application domains. For example, a simulation system has a different set of requirements as compared to a telecommunication application. Having reusable components in a software system is the main goal of component based software engineering. Such reusable components exist at a finer granularity level. In addition, they require various standards for services, infrastructure, interaction and composition. By building such a model; the component based software engineering can design, implement, and deploy the component infrastructures.
+## Afternoon Project
+- [My Github](https://github.com/JonesyJava/Vue-Playground.git)
