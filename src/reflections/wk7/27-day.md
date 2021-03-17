@@ -1,0 +1,10 @@
+# Day 27 - Week 7
+## Pair Programming - Checkpoint Week
+## What is a User Experience? What should be considered when developing a User Experience?
+
+## What are some benefits of taking into account the User Experience?
+
+## Why is the User Experience important?
+
+## Afternoon Project
+- [My Github]()
