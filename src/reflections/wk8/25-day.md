@@ -1,0 +1,10 @@
+# Day 25 - Week 8
+## Capstone Projects
+## What function does a Developer Portfolio provide?
+The function of a Developer Portfolio provides others, be it employers or other interested parties, with the ability to view your work and progression in developing your programming skillset. It also provides an indepth look into the ability of the programmers code, or the cleanliness of the code written. Professional development teams prefer code that is not only clean but also it is highly recommended that in a professional environment, code also has documentation provided for others using that code later on down the rode.
+## What makes a Developer Portfolio effective?
+Developer Portfolios are effective when they show a wide range of abilities and languages that the programmer is comfortable administering. While, as mentioned before, it is also effective to see the programmers abilities, it is most affective to see the progression and overall interests of the programmer. Whether they are coding in there free time is also something that a Portfolio can provide, given that GitHub allows for others to view pushed, or submitted, code with specific dates.
+## What projects do you have that you would include in your Portfolio? Why?
+I have a few projects at the moment I know I will be including within my Developer Portfolio. I will be including the team based projects within my portfolio to show that I work well with others and enjoy working with teams. I think the Capstone project '710' is a great piece to be proud of and show off when it is completed and shows the talent of myself and team members, as well as our chemistry together.
+
+The other projects I know I will be including is the Inspire, Google Momentum Clone Site, which shows my ability to mimic large companies techniques and display them on a working web application. Lastly I will also be including my Bug Log application, 'Lightning Bug', which shows my ability to adhere to professional standards and provide a commonly used logging system all professional developers will be familiar. 
