@@ -1,7 +1,8 @@
 # Day 30 - Week 9
 ## Capstone Projects
 ## What is a Github action and how do they work?
-
+GitHub Actions helps you build, test, and deploy applications, but you can also use it to automate other tasks common to your developer workflows: triaging and managing issues, automating releases, collaborating with your user base, and more.
 ## What benefits do Github actions provide?
-
+As previously mentioned, GitHub actions allow you to automate common developer tasks to stay on track within your workflows. GitHub Actions makes it easier to automate how you build, test, and deploy your projects on any platform, including Linux, macOS, and Windows. Run your workflows in a container or in a virtual machine. Actions also supports more languages and frameworks than ever, including Node.js, Python, Java, PHP, Ruby, C/C++, .NET, Android, and iOS. Testing multi-container apps? You can now test your web service and its database together by simply adding some docker-compose to your workflow file
 ## What types of trigger actions can a workflow use? What do they do?
+You can add a Dockerfile, entrypoint script, add an action.yml file, start a workflow file, run an action from your workflow file, as well as trigger your workflow. The actions are the best way to create and maintain a Continuous Development/Continuous Integration/Continuous Deployment (CD/CI/CD) workflow (IOHO). If you want to automate a particular manual step, it is probably already coded, tested, and open-sourced as a Github Action script on GitHub MarketPlace.
