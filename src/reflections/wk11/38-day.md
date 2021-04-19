@@ -44,3 +44,6 @@ internal IEnumerable<Doctor> GetAll()
   ### FOREIGN KEY (patientId)
   ### REFERENCES patients(id),
 )
+
+## Afternoon Project
+- [My Github](https://github.com/JonesyJava/mtm.git)

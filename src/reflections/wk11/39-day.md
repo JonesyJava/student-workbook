@@ -17,3 +17,7 @@ Steps to prevent SQL injection attacks
 -- Actively Manage Patches and Updates.
 -- Raise Virtual or Physical Firewalls.
 -- Harden Your OS and Applications.
+
+## Afternoon Project
+- [My Github](https://github.com/dallenpyrah/csharp-taskmaster.git)
+    - Worked with Dallen Pyrah during partner afternoon project.

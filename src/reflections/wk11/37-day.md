@@ -7,3 +7,6 @@ Inheritance allows for classes to inherit attributes given to a parent class, wh
 Member inheritance is created with a base class which then, when called upon in another class, is passed along and aquired by this new class. A class can only inherit members that are written to be inherited within a public designation. 
 ## How does accessibility affect inheritance?
 Inheritance can only be accessed once within each class. Interface, however, can be accessed as many times as needed after set within the interface base.
+
+## Afternoon Project
+- [My Github](https://github.com/JonesyJava/inherit-interface.git)
